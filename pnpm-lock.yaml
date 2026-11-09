@@ -235,8 +235,8 @@ importers:
   integrations/external-context:
     dependencies:
       '@modelcontextprotocol/sdk':
-        specifier: ^1.30.0
-        version: 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+        specifier: ^1.32.0
+        version: 1.32.2(supports-color@7.2.0)(zod@3.25.76)
       undici:
         specifier: ^7.28.0
         version: 7.29.0
@@ -260,8 +260,8 @@ importers:
   integrations/external-context-mem0:
     devDependencies:
       '@modelcontextprotocol/sdk':
-        specifier: ^1.30.0
-        version: 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+        specifier: ^1.32.0
+        version: 1.32.2(supports-color@7.2.0)(zod@3.25.76)
       '@types/node':
         specifier: ^22.0.0
         version: 22.20.1
@@ -518,13 +518,13 @@ importers:
         version: 0.14.1(zod@3.25.76)
       '@google/genai':
         specifier: 2.6.0
-        version: 2.6.0(@modelcontextprotocol/sdk@1.30.0(supports-color@7.2.0)(zod@3.25.76))(supports-color@7.2.0)
+        version: 2.6.0(@modelcontextprotocol/sdk@1.32.2(supports-color@7.2.0)(zod@3.25.76))(supports-color@7.2.0)
       '@iarna/toml':
         specifier: ^2.2.5
         version: 2.2.5
       '@modelcontextprotocol/sdk':
-        specifier: ^1.30.0
-        version: 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+        specifier: ^1.32.0
+        version: 1.32.2(supports-color@7.2.0)(zod@3.25.76)
       '@opentelemetry/api':
         specifier: ^1.9.0
         version: 1.9.0
@@ -835,7 +835,7 @@ importers:
         version: 0.36.3(encoding@0.1.13)
       '@google/genai':
         specifier: 2.6.0
-        version: 2.6.0(@modelcontextprotocol/sdk@1.30.0(supports-color@7.2.0)(zod@3.25.76))(supports-color@7.2.0)
+        version: 2.6.0(@modelcontextprotocol/sdk@1.32.2(supports-color@7.2.0)(zod@3.25.76))(supports-color@7.2.0)
       '@iarna/toml':
         specifier: ^2.2.5
         version: 2.2.5
@@ -849,8 +849,8 @@ importers:
         specifier: 2.0.0
         version: 2.0.0
       '@modelcontextprotocol/sdk':
-        specifier: ^1.30.0
-        version: 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+        specifier: ^1.32.0
+        version: 1.32.2(supports-color@7.2.0)(zod@3.25.76)
       '@opentelemetry/api':
         specifier: ^1.9.0
         version: 1.9.0
@@ -1188,8 +1188,8 @@ importers:
   packages/node-repl:
     dependencies:
       '@modelcontextprotocol/sdk':
-        specifier: ^1.30.0
-        version: 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+        specifier: ^1.32.0
+        version: 1.32.2(supports-color@7.2.0)(zod@3.25.76)
       tree-sitter-wasms:
         specifier: ^0.1.13
         version: 0.1.13
@@ -1265,8 +1265,8 @@ importers:
   packages/sdk-typescript:
     dependencies:
       '@modelcontextprotocol/sdk':
-        specifier: ^1.30.0
-        version: 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+        specifier: ^1.32.0
+        version: 1.32.2(supports-color@7.2.0)(zod@3.25.76)
       zod:
         specifier: ^3.25.0
         version: 3.25.76
@@ -1311,8 +1311,8 @@ importers:
         specifier: ^0.14.1
         version: 0.14.1(zod@3.25.76)
       '@modelcontextprotocol/sdk':
-        specifier: ^1.30.0
-        version: 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+        specifier: ^1.32.0
+        version: 1.32.2(supports-color@7.2.0)(zod@3.25.76)
       '@qwen-code/acp-bridge':
         specifier: workspace:*
         version: link:../acp-bridge
@@ -1442,7 +1442,7 @@ importers:
         version: 0.1.12(@types/react@19.2.10)(echarts@6.1.0)(react@19.2.4)(supports-color@7.2.0)
       '@modelcontextprotocol/ext-apps':
         specifier: ^1.7.5
-        version: 1.7.5(@modelcontextprotocol/sdk@1.30.0(supports-color@7.2.0)(zod@3.25.76))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(zod@3.25.76)
+        version: 1.7.5(@modelcontextprotocol/sdk@1.32.2(supports-color@7.2.0)(zod@3.25.76))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(zod@3.25.76)
       '@tanstack/react-table':
         specifier: ^8.21.3
         version: 8.21.3(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
@@ -2945,8 +2945,8 @@ packages:
       '@cfworker/json-schema':
         optional: true
 
-  '@modelcontextprotocol/sdk@1.30.0':
-    resolution: {integrity: sha512-xKd8OIzlqNzcqcNumGAa6g+PW2kjD5vrpcKOnfldAUPP3j7lnqMPwlTXQm8gF+UwH72z0lqaRbjr9hqGz0eITA==}
+  '@modelcontextprotocol/sdk@1.32.2':
+    resolution: {integrity: sha512-SWsVtH/0vULSQStoZ6xxH2K09Li8fXYTMC64ZeogCdpZ3XSi1eCPOByV1OpuJxuI3OcmHhosDWYyii07tpPsLw==}
     engines: {node: '>=18'}
     peerDependencies:
       '@cfworker/json-schema': ^4.1.1
@@ -11283,14 +11283,14 @@ snapshots:
       '@gitbeaker/core': 42.5.0
       '@gitbeaker/requester-utils': 42.5.0
 
-  '@google/genai@2.6.0(@modelcontextprotocol/sdk@1.30.0(supports-color@7.2.0)(zod@3.25.76))(supports-color@7.2.0)':
+  '@google/genai@2.6.0(@modelcontextprotocol/sdk@1.32.2(supports-color@7.2.0)(zod@3.25.76))(supports-color@7.2.0)':
     dependencies:
       google-auth-library: 10.6.2(supports-color@7.2.0)
       p-retry: 4.6.2
       protobufjs: 7.6.5
       ws: 8.21.3
     optionalDependencies:
-      '@modelcontextprotocol/sdk': 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+      '@modelcontextprotocol/sdk': 1.32.2(supports-color@7.2.0)(zod@3.25.76)
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -11723,9 +11723,9 @@ snapshots:
     dependencies:
       zod: 4.4.3
 
-  '@modelcontextprotocol/ext-apps@1.7.5(@modelcontextprotocol/sdk@1.30.0(supports-color@7.2.0)(zod@3.25.76))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(zod@3.25.76)':
+  '@modelcontextprotocol/ext-apps@1.7.5(@modelcontextprotocol/sdk@1.32.2(supports-color@7.2.0)(zod@3.25.76))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(zod@3.25.76)':
     dependencies:
-      '@modelcontextprotocol/sdk': 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+      '@modelcontextprotocol/sdk': 1.32.2(supports-color@7.2.0)(zod@3.25.76)
       '@standard-schema/spec': 1.1.0
       zod: 3.25.76
     optionalDependencies:
@@ -11754,7 +11754,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@modelcontextprotocol/sdk@1.30.0(supports-color@7.2.0)(zod@3.25.76)':
+  '@modelcontextprotocol/sdk@1.32.2(supports-color@7.2.0)(zod@3.25.76)':
     dependencies:
       '@hono/node-server': 2.0.12(hono@4.13.3)
       ajv: 8.20.0
@@ -11767,7 +11767,7 @@ snapshots:
       express: 5.2.1(supports-color@7.2.0)
       express-rate-limit: 8.5.2(express@5.2.1(supports-color@7.2.0))
       hono: 4.13.3
-      jose: 6.1.3
+      jose: 6.2.12
       json-schema-typed: 8.0.2
       pkce-challenge: 5.0.0
       raw-body: 3.0.2
@@ -19345,7 +19345,7 @@ snapshots:
       '@babel/plugin-transform-typescript': 7.29.7(@babel/core@7.29.7(supports-color@7.2.0))(supports-color@7.2.0)
       '@babel/preset-typescript': 7.29.7(@babel/core@7.29.7(supports-color@7.2.0))(supports-color@7.2.0)
       '@dotenvx/dotenvx': 1.75.1
-      '@modelcontextprotocol/sdk': 1.30.0(supports-color@7.2.0)(zod@3.25.76)
+      '@modelcontextprotocol/sdk': 1.32.2(supports-color@7.2.0)(zod@3.25.76)
       '@types/validate-npm-package-name': 4.0.2
       browserslist: 4.28.0
       commander: 14.0.3
