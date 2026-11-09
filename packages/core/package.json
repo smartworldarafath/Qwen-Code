@@ -146,7 +146,7 @@
     "fast-uri": "^3.0.6",
     "fdir": "^6.4.6",
     "fzf": "^0.5.2",
-    "glob": "^10.5.0",
+    "glob": "^14.0.2",
     "google-auth-library": "^10.5.0",
     "https-proxy-agent": "^7.0.6",
     "iconv-lite": "^0.6.3",
