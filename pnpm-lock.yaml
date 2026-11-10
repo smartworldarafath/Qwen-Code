@@ -238,8 +238,8 @@ importers:
         specifier: ^1.30.0
         version: 1.30.0(supports-color@7.2.0)(zod@3.25.76)
       undici:
-        specifier: ^7.28.0
-        version: 7.29.0
+        specifier: ^7.30.1
+        version: 7.30.2
       zod:
         specifier: ^3.25.0
         version: 3.25.76
@@ -691,8 +691,8 @@ importers:
         specifier: ^7.5.19
         version: 7.5.22
       undici:
-        specifier: ^7.28.0
-        version: 7.29.0
+        specifier: ^7.30.1
+        version: 7.30.2
       unified:
         specifier: ^11.0.0
         version: 11.0.5
@@ -1008,8 +1008,8 @@ importers:
         specifier: ^7.2.4
         version: 7.2.4
       undici:
-        specifier: ^7.28.0
-        version: 7.29.0
+        specifier: ^7.30.1
+        version: 7.30.2
       uuid:
         specifier: ^9.0.1
         version: 9.0.1
@@ -9914,8 +9914,8 @@ packages:
   undici-types@7.29.0:
     resolution: {integrity: sha512-vamA8dGlzMwhpyYpQp9d8vka3o4D/yn5I7ez7Or+msDA4bZ8Uh+Zy91WvWf3I73gDAkFha9JcYRqm2li0Npfgg==}
 
-  undici@7.29.0:
-    resolution: {integrity: sha512-IDxfleLmmbSskfWSUATiN1nfn2rDuvnMOqb5CWR92iIfojA0Ud+ulOAAEQ57LPr9rWmsreUyf5lwyao+7GNNVw==}
+  undici@7.30.2:
+    resolution: {integrity: sha512-mLyPQnHwUxaM/rideoK/+KL8DaAJLRl4aBCfmX444aCSLnIaomqPLtNRe2jdCYcsk5wZzXrDIQC8ZeYNRAYyIA==}
     engines: {node: '>=20.18.1'}
 
   unicorn-magic@0.1.0:
@@ -10922,7 +10922,7 @@ snapshots:
       open: 8.4.2
       picomatch: 4.0.5
       systeminformation: 5.33.19
-      undici: 7.29.0
+      undici: 7.30.2
       which: 4.0.0
       yocto-spinner: 1.2.1
 
@@ -14853,7 +14853,7 @@ snapshots:
       parse5: 7.3.0
       parse5-htmlparser2-tree-adapter: 7.1.0
       parse5-parser-stream: 7.1.2
-      undici: 7.29.0
+      undici: 7.30.2
       whatwg-mimetype: 4.0.0
 
   chokidar@3.6.0:
@@ -19368,7 +19368,7 @@ snapshots:
       tailwind-merge: 3.6.0
       ts-morph: 26.0.0
       tsconfig-paths: 4.2.0
-      undici: 7.29.0
+      undici: 7.30.2
       validate-npm-package-name: 7.0.2
       zod: 3.25.76
       zod-to-json-schema: 3.25.2(zod@3.25.76)
@@ -20172,7 +20172,7 @@ snapshots:
 
   undici-types@7.29.0: {}
 
-  undici@7.29.0: {}
+  undici@7.30.2: {}
 
   unicorn-magic@0.1.0: {}
 
